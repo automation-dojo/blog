@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation Dojo</title>
+    <link>https://automation-dojo.github.io/</link>
+    <description>Recent content on Automation Dojo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Sep 2018 22:32:43 +0530</lastBuildDate>
+    
+	<atom:link href="https://automation-dojo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://automation-dojo.github.io/about/</link>
+      <pubDate>Sun, 30 Sep 2018 22:13:45 +0530</pubDate>
+      
+      <guid>https://automation-dojo.github.io/about/</guid>
+      <description> Waves are the practice of the water. Shunryu Suzuki
+ </description>
+    </item>
+    
+    <item>
+      <title>Dark Knight Rises</title>
+      <link>https://automation-dojo.github.io/posts/dark-knight-rises/</link>
+      <pubDate>Sun, 30 Sep 2018 22:01:15 +0530</pubDate>
+      
+      <guid>https://automation-dojo.github.io/posts/dark-knight-rises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batman Begins ...</title>
+      <link>https://automation-dojo.github.io/posts/batman-begins/</link>
+      <pubDate>Sun, 30 Sep 2018 13:56:17 +0530</pubDate>
+      
+      <guid>https://automation-dojo.github.io/posts/batman-begins/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
